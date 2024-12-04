@@ -1,0 +1,5 @@
+<html>
+<title> regestration form </title>
+<label> first name</label>
+<input type="text" name ="first name" size="12"/><br>
+</html>
